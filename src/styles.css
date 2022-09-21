@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: yellow;
+}
+
+.dinner {
+  background-color: red;
+}
+
+.break {
+  background-color: blue;
+}
+
+.lunch {
+  background-color: gray;
+}
